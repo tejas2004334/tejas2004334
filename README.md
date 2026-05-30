@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas2004334&label=Profile%20views&color=0e75b6&style=flat" alt="tejas2004334" /> </p>
 
-- 🌱 I’m currently learning **BCA**
+🌱 I have completed my Bachelor of Computer Applications (BCA).
+🌱 I am currently pursuing a Master of Computer Applications (MCA).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
